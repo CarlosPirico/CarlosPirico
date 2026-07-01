@@ -152,8 +152,16 @@ Valorizo soluções que sejam claras para o time, confiáveis em produção e si
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPirico&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPirico&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=CarlosPirico&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CarlosPirico&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ---
