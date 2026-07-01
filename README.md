@@ -8,7 +8,7 @@
 
 <p>
   <a href="mailto:carlos.pirico3008@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-carlos.pirico3008%40gmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-carlos.pirico%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://github.com/CarlosPirico">
     <img src="https://img.shields.io/github/followers/CarlosPirico?label=Seguidores&style=flat-square&logo=github" alt="GitHub followers" />
